@@ -1,0 +1,15 @@
+i
+`C:\Users\Jeevan.Ready\source\Repos\WebApplication2\WebApplication2\Controllers\HomeController.csutf-8d
+[C:\Users\Jeevan.Ready\source\Repos\WebApplication2\WebApplication2\Models\ErrorViewModel.csutf-8V
+MC:\Users\Jeevan.Ready\source\Repos\WebApplication2\WebApplication2\Program.csutf-8Ä
+uC:\Users\Jeevan.Ready\source\Repos\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.GlobalUsings.g.csutf-8é
+ÇC:\Users\Jeevan.Ready\source\Repos\WebApplication2\WebApplication2\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8~
+sC:\Users\Jeevan.Ready\source\Repos\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.AssemblyInfo.csutf-8É
+xC:\Users\Jeevan.Ready\source\Repos\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.RazorAssemblyInfo.csutf-8è
+ÉMicrosoft.NET.Sdk.Razor.SourceGenerators\Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator\Views_Home_Index_cshtml.g.csutf-8ë
+ÖMicrosoft.NET.Sdk.Razor.SourceGenerators\Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator\Views_Home_Privacy_cshtml.g.csutf-8ë
+ÖMicrosoft.NET.Sdk.Razor.SourceGenerators\Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator\Views_Shared_Error_cshtml.g.csutf-8•
+ôMicrosoft.NET.Sdk.Razor.SourceGenerators\Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator\Views_Shared__ValidationScriptsPartial_cshtml.g.csutf-8ë
+ÖMicrosoft.NET.Sdk.Razor.SourceGenerators\Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator\Views__ViewImports_cshtml.g.csutf-8è
+ÉMicrosoft.NET.Sdk.Razor.SourceGenerators\Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator\Views__ViewStart_cshtml.g.csutf-8ì
+áMicrosoft.NET.Sdk.Razor.SourceGenerators\Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator\Views_Shared__Layout_cshtml.g.csutf-8
